@@ -1,1 +1,1 @@
-# TechnicalHomework2
+This is for capstone. # TechnicalHomework2
